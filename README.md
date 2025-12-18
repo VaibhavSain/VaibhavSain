@@ -49,9 +49,7 @@ I’m a passionate **Full Stack Developer** who loves building scalable web appl
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=VaibhavSain\&theme=tokyonight\&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=VaibhavSain\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=VaibhavSain\&theme=tokyonight\&hide_border=false)       ![](https://nirzak-streak-stats.vercel.app/?user=VaibhavSain\&theme=tokyonight\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSain\&theme=tokyonight\&hide_border=false\&layout=compact)
 
