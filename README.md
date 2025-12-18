@@ -1,4 +1,8 @@
+👋 Hi, I'm Vaibhav Sain
 
+🚀 Full Stack Developer | MERN Stack | Building scalable web apps & clean UI experiences
+
+I’m a passionate full stack developer who loves turning ideas into production-ready applications. From crafting pixel-perfect frontends to designing robust backends, I enjoy solving real-world problems with clean, maintainable code.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xyzx010101@gmail.com) 
 
@@ -20,5 +24,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VaibhavSain&icon=0&color=0)](https://visitcount.itsvg.in)
+🚀 What I’m Focused On
 
+Building full stack MERN applications
+
+Writing clean, scalable, and maintainable code
+
+Improving performance & UI/UX
+
+Learning system design & backend optimization
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
