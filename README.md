@@ -71,12 +71,6 @@ Elegant UI landing page focused on layout, typography, and responsiveness.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=VaibhavSain&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🧠 Problem Solving
 
 ✔️ Regular LeetCode practice  
